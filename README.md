@@ -212,4 +212,4 @@ TunnelBear is offered as a **complete free version** with all features and updat
 Take the first step towards secure and unrestricted browsing. **Download TunnelBear now and experience the freedom of the internet!**
 
 ---
-**Last updated:** 2026-11-12 12:11:07 UTC
+**Last updated:** 2026-11-12 20:38:41 UTC
